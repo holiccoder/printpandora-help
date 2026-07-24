@@ -1,17 +1,11 @@
 ---
-external_id: 202941330
 title: 'Recommended file sizes for images & photos'
 slug: 202941330-Recommended-file-sizes-for-images-photos
-section_external_id: 200572464
-category: 'Your designs'
-section: 'Design information'
+external_id: 202941330
 locale: en-us
 position: 2
-promoted: true
-vote_sum: 39
-source_url: 'https://support.moo.com/hc/en-us/articles/202941330-Recommended-file-sizes-for-images-photos'
-remote_created_at: '2014-08-08T14:19:42+00:00'
-remote_updated_at: '2026-05-28T09:04:29+00:00'
+category: 'Your designs'
+section: 'Design information'
 ---
 
 To ensure the best print quality for your products, please follow these guidelines when uploading your designs.
@@ -28,7 +22,7 @@ If your designs are a mix of photography and design elements, ensure that all em
 Maximum File Size
 -----------------
 
-Please note that individual files must be less than **50 MB**. Files larger than this cannot be uploaded to MOO.
+Please note that individual files must be less than **50 MB**. Files larger than this cannot be uploaded to {{BRAND_NAME}}.
 
 
 Minimum and Recommended Image Dimensions
@@ -36,7 +30,7 @@ Minimum and Recommended Image Dimensions
 
 Use the table below to find the minimum and recommended image dimensions for each product:
 
-ProductMinimum (96 dpi)Recommended (300 dpi)MOO Size Business Cards333 x 223 pixels1038 x 696 pixelsStandard Size Business Cards352 x 208 pixels1098 x 648 pixelsSquare Business Cards261 x 261 pixels813 x 813 pixelsMiniCards280 x 121 pixels873 x 378 pixelsLuxe Notecards575 x 412 pixels1794 x 1287 pixelsSmall Postcards575 x 412 pixels1794 x 1287 pixelsStandard Postcards591 x 399 pixels1847 x 1247 pixelsSquare Postcards468 x 468 pixels1464 x 1464 pixelsRack Cards809 x 390 pixels2529 x 1218 pixelsMedium Postcards513 x 369 pixels2138 x 1538 pixelsHalf Page Postcard809 x 574 pixels2529 x 1794 pixelsLarge Postcards
+ProductMinimum (96 dpi)Recommended (300 dpi){{BRAND_SIZE_NAME}} Business Cards333 x 223 pixels1038 x 696 pixelsStandard Size Business Cards352 x 208 pixels1098 x 648 pixelsSquare Business Cards261 x 261 pixels813 x 813 pixelsMiniCards280 x 121 pixels873 x 378 pixelsLuxe Notecards575 x 412 pixels1794 x 1287 pixelsSmall Postcards575 x 412 pixels1794 x 1287 pixelsStandard Postcards591 x 399 pixels1847 x 1247 pixelsSquare Postcards468 x 468 pixels1464 x 1464 pixelsRack Cards809 x 390 pixels2529 x 1218 pixelsMedium Postcards513 x 369 pixels2138 x 1538 pixelsHalf Page Postcard809 x 574 pixels2529 x 1794 pixelsLarge Postcards
 
 879 x 591 pixels
 
@@ -119,5 +113,4 @@ If the image dimensions become too small after changing the resolution, you may 
 Need Assistance?
 ----------------
 
-If you have any questions or need help with your design files, please don't hesitate to [contact our Customer Support team](https://support.moo.com/hc/articles/204288414).
-
+If you have any questions or need help with your design files, please don't hesitate to [contact our Customer Support team](https://{{HELP_DOMAIN}}/hc/articles/204288414).

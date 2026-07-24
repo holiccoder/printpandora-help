@@ -1,17 +1,11 @@
 ---
-external_id: 6580743117588
 title: 'Using Special Finishes as an Enhancement'
 slug: 6580743117588-Using-Special-Finishes-as-an-Enhancement
-section_external_id: 200572484
-category: 'Your designs'
-section: 'How to use your own designs'
+external_id: 6580743117588
 locale: en-us
 position: 5
-promoted: false
-vote_sum: 6
-source_url: 'https://support.moo.com/hc/en-us/articles/6580743117588-Using-Special-Finishes-as-an-Enhancement'
-remote_created_at: '2022-05-27T16:58:09+00:00'
-remote_updated_at: '2026-07-04T11:25:25+00:00'
+category: 'Your designs'
+section: 'How to use your own designs'
 ---
 
 ### **Gold Foil and Silver Foil**
@@ -22,7 +16,7 @@ remote_updated_at: '2026-07-04T11:25:25+00:00'
 
  **Printed Result**
 
-![moo-design-ink-01.png](https://support.moo.com/hc/article_attachments/29833644344980)
+![{{BRAND_NAME}}-design-ink-01.png]({{IMAGE_PENDING:29833644344980}})
 
  
 =
@@ -30,7 +24,7 @@ remote_updated_at: '2026-07-04T11:25:25+00:00'
 +
 =
 
-![moo-foil-element-nay-01.png](https://support.moo.com/hc/article_attachments/29833670711956)
+![{{BRAND_NAME}}-foil-element-nay-01.png]({{IMAGE_PENDING:29833670711956}})
 
  
 =
@@ -38,7 +32,7 @@ remote_updated_at: '2026-07-04T11:25:25+00:00'
 ❯
 =
 
-![moo-foil-result-nay-01.png](https://support.moo.com/hc/article_attachments/29833644345876)
+![{{BRAND_NAME}}-foil-result-nay-01.png]({{IMAGE_PENDING:29833644345876}})
 
 This file will be printed first.
 
@@ -55,7 +49,7 @@ This is too much Foil application.
  
 =
 
-![moo-foil-element-yay-01.png](https://support.moo.com/hc/article_attachments/29833670713236)
+![{{BRAND_NAME}}-foil-element-yay-01.png]({{IMAGE_PENDING:29833670713236}})
 
  
 =
@@ -63,7 +57,7 @@ This is too much Foil application.
 ❯
 =
 
-![moo-foil-result-yay-01.png](https://support.moo.com/hc/article_attachments/29833670708116)
+![{{BRAND_NAME}}-foil-result-yay-01.png]({{IMAGE_PENDING:29833670708116}})
 
  
 =
@@ -77,7 +71,7 @@ Yay! This is perfect.
 
 ### **Spot Gloss and Raised Spot Gloss**
 
-![moo-spot-design-01.png](https://support.moo.com/hc/article_attachments/29833670710804)
+![{{BRAND_NAME}}-spot-design-01.png]({{IMAGE_PENDING:29833670710804}})
 
  
 =
@@ -85,7 +79,7 @@ Yay! This is perfect.
 +
 =
 
-![moo-spot-element-nay-01.png](https://support.moo.com/hc/article_attachments/29833670714260)
+![{{BRAND_NAME}}-spot-element-nay-01.png]({{IMAGE_PENDING:29833670714260}})
 
  
 =
@@ -93,7 +87,7 @@ Yay! This is perfect.
 ❯
 =
 
-![moo-spot-result-nay-01.png](https://support.moo.com/hc/article_attachments/29833644344340)
+![{{BRAND_NAME}}-spot-result-nay-01.png]({{IMAGE_PENDING:29833644344340}})
 
 This file will be printed first.
 
@@ -110,7 +104,7 @@ This is too much Gloss application.
  
 =
 
-![moo-spot-element-yay-01.png](https://support.moo.com/hc/article_attachments/29833644344596)
+![{{BRAND_NAME}}-spot-element-yay-01.png]({{IMAGE_PENDING:29833644344596}})
 
  
 =
@@ -118,7 +112,7 @@ This is too much Gloss application.
 ❯
 =
 
-![moo-spot-result-yay-01.png](https://support.moo.com/hc/article_attachments/29833670714900)
+![{{BRAND_NAME}}-spot-result-yay-01.png]({{IMAGE_PENDING:29833670714900}})
 
  
 =
@@ -134,4 +128,3 @@ Yay! This is perfect.
 ------------------------------------------------
 
 We suggest Foil and Spot Gloss elements be used as an accent to your design rather than the main feature. Too much coverage can cause problems in production and with the final printed results. We recommend keeping all Foil and Spot Gloss no more than 20-30% of the total card surface, or an area no larger than a 1 x 1 inch/ 25 x 25mm square.
-

@@ -1,23 +1,17 @@
 ---
-external_id: 360062045751
 title: 'Document uses security'
 slug: 360062045751-Document-uses-security
-section_external_id: 200586084
-category: 'Fix a problem'
-section: 'Error messages'
+external_id: 360062045751
 locale: en-us
 position: 7
-promoted: false
-vote_sum: -1
-source_url: 'https://support.moo.com/hc/en-us/articles/360062045751-Document-uses-security'
-remote_created_at: '2021-05-27T19:38:00+00:00'
-remote_updated_at: '2025-09-11T13:00:36+00:00'
+category: 'Fix a problem'
+section: 'Error messages'
 ---
 
-![red-01.png](https://support.moo.com/hc/article_attachments/360074610831/red-01.png)PDF files can be saved with security settings enabled to prevent editing or to password protect the content. While this is useful in some cases, these settings prevent our printer from interpreting the file and running the preflight steps needed to print them.What is document security and why do I need to remove it?
+![red-01.png]({{IMAGE_PENDING:360074610831}})PDF files can be saved with security settings enabled to prevent editing or to password protect the content. While this is useful in some cases, these settings prevent our printer from interpreting the file and running the preflight steps needed to print them.What is document security and why do I need to remove it?
 ---------------------------------------------------------
 
-**![icon__ui--tick-circle-bold.svg](https://support.moo.com/hc/article_attachments/360096725932/icon__ui--tick-circle-bold.svg)**1. Open the PDF in **Acrobat**.
+**![icon__ui--tick-circle-bold.svg]({{IMAGE_PENDING:360096725932}})**1. Open the PDF in **Acrobat**.
 2. Use the “**Unlock**” tool: 
     - Choose **Tools** &gt; **Protect** &gt; **Advanced Options** &gt; **Remove Security**
         - -OR-
@@ -30,4 +24,3 @@ remote_updated_at: '2025-09-11T13:00:36+00:00'
 
 How to remove document security in Adobe Acrobat
 ------------------------------------------------
-

@@ -1,17 +1,11 @@
 ---
-external_id: 202838774
 title: 'How to preflight a PDF'
 slug: 202838774-How-to-preflight-a-PDF
-section_external_id: 200586084
-category: 'Fix a problem'
-section: 'Error messages'
+external_id: 202838774
 locale: en-us
 position: 3
-promoted: false
-vote_sum: -65
-source_url: 'https://support.moo.com/hc/en-us/articles/202838774-How-to-preflight-a-PDF'
-remote_created_at: '2014-08-20T12:07:31+00:00'
-remote_updated_at: '2026-06-28T20:19:17+00:00'
+category: 'Fix a problem'
+section: 'Error messages'
 ---
 
 ### What does preflight mean in printing?
@@ -23,7 +17,7 @@ remote_updated_at: '2026-06-28T20:19:17+00:00'
 
 ### How to preflight a PDF
 
-You can preflight your PDF using most design software - at MOO, we normally use Adobe Illustrator or Photoshop. To preflight from these programs, you can follow these simple steps…
+You can preflight your PDF using most design software - at {{BRAND_NAME}}, we normally use Adobe Illustrator or Photoshop. To preflight from these programs, you can follow these simple steps…
 
 1. Open the file (preferably the .ai or .psd file) in the relevant program.
 2. Click "**File&gt;Save As**".
@@ -32,4 +26,3 @@ You can preflight your PDF using most design software - at MOO, we normally use 
 5. Click "**Save PDF**".
 
 If you do not have a copy of Illustrator or Photoshop, you may find some useful information in the [Adobe Forums.](http://forums.adobe.com/message/2985420#2985420)
-

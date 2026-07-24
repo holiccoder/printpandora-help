@@ -1,23 +1,17 @@
 ---
-external_id: 48451616678036
 title: 'Spot Gloss Business Cards'
 slug: 48451616678036-Spot-Gloss-Business-Cards
-section_external_id: 48417382964884
-category: 'About MOO products'
-section: 'Business Cards'
+external_id: 48451616678036
 locale: en-us
 position: 0
-promoted: false
-vote_sum: 0
-source_url: 'https://support.moo.com/hc/en-us/articles/48451616678036-Spot-Gloss-Business-Cards'
-remote_created_at: '2026-04-21T16:31:46+00:00'
-remote_updated_at: '2026-05-27T18:58:16+00:00'
+category: 'About {{BRAND_NAME}} products'
+section: 'Business Cards'
 ---
 
-![](https://support.moo.com/hc/article_attachments/48451790340884)![](https://support.moo.com/hc/article_attachments/48451790343828)What are Spot Gloss Business Cards?
+![]({{IMAGE_PENDING:48451790340884}})![]({{IMAGE_PENDING:48451790343828}})What are Spot Gloss Business Cards?
 -----------------------------------
 
-[Spot Gloss Business Cards](https://www.moo.com/business-cards/finishes/spot-gloss-business-cards) are printed on thick Super paper (400gsm / 19pt) with a Soft Touch matte finish, then enhanced with a clear, glossy coating applied to selected parts of your design.
+[Spot Gloss Business Cards](https://www.{{MAIN_DOMAIN}}/business-cards/finishes/spot-gloss-business-cards) are printed on thick Super paper (400gsm / 19pt) with a Soft Touch matte finish, then enhanced with a clear, glossy coating applied to selected parts of your design.
 
 This coating sits on top of the card, creating a smooth, shiny contrast against the matte background. It doesn’t add color, just a subtle highlight that catches the light.
 
@@ -45,7 +39,7 @@ At a glance
 - **Base finish:** Soft Touch matte
 - **Finish type:** Clear spot gloss (spot UV coating)
 - **Feel:** Smooth with glossy contrast
-- **Material:** Made from responsibly sourced [FSC® certified material](https://support.moo.com/hc/articles/38741101861652)
+- **Material:** Made from responsibly sourced [FSC® certified material](https://{{HELP_DOMAIN}}/hc/articles/38741101861652)
 - **Best for:** Patterns, text, subtle highlights
 
   
@@ -54,13 +48,13 @@ Sizes and format
 
 Available in:
 
-![](https://support.moo.com/hc/article_attachments/48451790344980)
+![]({{IMAGE_PENDING:48451790344980}})
 
 **Standard (2.0" x 3.5")**
 
-![](https://support.moo.com/hc/article_attachments/48451790345876)**MOO (2.16" x 3.3")**
+![]({{IMAGE_PENDING:48451790345876}})**{{BRAND_NAME}} (2.16" x 3.3")**
 
-![](https://support.moo.com/hc/article_attachments/48451790346388)**Square (2.56" x 2.56")**
+![]({{IMAGE_PENDING:48451790346388}})**Square (2.56" x 2.56")**
 
 You can choose rounded or square corners.
 
@@ -84,7 +78,7 @@ Customization
 - Works well for text, patterns, or layered elements
 - Adds contrast without overpowering the overall design
 
-![Printfinity.svg](https://support.moo.com/hc/article_attachments/48451790347668)While the front of every card in your pack will have the same image, you can have up to 50 different back designs when utilizing MOO’s own [Printfinity](https://www.moo.com/about/printfinity) option! *Please note, Printfinity options may be limited on some MOO Designs.*  
+![{{FEATURE_MIXED_DESIGNS}}.svg]({{IMAGE_PENDING:48451790347668}})While the front of every card in your pack will have the same image, you can have up to 50 different back designs when utilizing {{BRAND_NAME}}’s own [{{FEATURE_MIXED_DESIGNS}}](https://www.{{MAIN_DOMAIN}}/about/{{FEATURE_MIXED_DESIGNS}}) option! *Please note, {{FEATURE_MIXED_DESIGNS}} options may be limited on some {{BRAND_NAME}} Designs.*  
 Preparing your artwork
 -------------------------
 
@@ -93,7 +87,7 @@ To set up a Spot Gloss design, you’ll need to separate your artwork into two f
 - One for your **main printed design (background)**
 - One for the **spot gloss layer** (showing exactly where the gloss will be applied)
 
-![Design Guidelines](https://www.moo.com/dam/jcr:193f428f-5077-4fd9-81de-0c8eeb1fb461/US_spot_gloss.png)Your gloss artwork should be:
+![Design Guidelines](https://www.{{TEMPLATE_DOWNLOAD_URL}}/193f428f-5077-4fd9-81de-0c8eeb1fb461/US_spot_gloss.png)Your gloss artwork should be:
 
 - **Vector-based**
 - **Black and white only**
@@ -113,7 +107,7 @@ Spot Gloss works best when used as a subtle accent.
 - Use it to highlight key elements rather than the entire design
 - Works especially well on darker backgrounds where contrast is more visible
 
-If you’re unsure, it’s worth reviewing the full **Special Finish Guidelines** before finalizing your design: [Special Finishes design requirements](https://support.moo.com/hc/articles/206347686)
+If you’re unsure, it’s worth reviewing the full **Special Finish Guidelines** before finalizing your design: [Special Finishes design requirements](https://{{HELP_DOMAIN}}/hc/articles/206347686)
 
   
 What to know before ordering
@@ -123,4 +117,3 @@ What to know before ordering
 - The effect is more subtle than foil finishes
 - Best results come from clean, intentional designs
 - Printed on Soft Touch Super paper to create contrast with the gloss
-

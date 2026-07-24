@@ -1,23 +1,17 @@
 ---
-external_id: 10390152585748
 title: 'Cotton Business Cards'
 slug: 10390152585748-Cotton-Business-Cards
-section_external_id: 48417382964884
-category: 'About MOO products'
-section: 'Business Cards'
+external_id: 10390152585748
 locale: en-us
 position: 13
-promoted: false
-vote_sum: 9
-source_url: 'https://support.moo.com/hc/en-us/articles/10390152585748-Cotton-Business-Cards'
-remote_created_at: '2022-10-27T08:32:16+00:00'
-remote_updated_at: '2026-07-06T22:38:19+00:00'
+category: 'About {{BRAND_NAME}} products'
+section: 'Business Cards'
 ---
 
-![](https://support.moo.com/hc/article_attachments/48452577374996)What are Cotton Business Cards?
+![]({{IMAGE_PENDING:48452577374996}})What are Cotton Business Cards?
 -------------------------------
 
-[Cotton Business Cards](https://www.moo.com/business-cards/cotton) are made from 100% tree-free cotton paper, created using cotton linters. These are the soft fibers that surround cotton seeds, giving the paper its natural texture and feel.
+[Cotton Business Cards](https://www.{{MAIN_DOMAIN}}/business-cards/cotton) are made from 100% tree-free cotton paper, created using cotton linters. These are the soft fibers that surround cotton seeds, giving the paper its natural texture and feel.
 
 They’re uncoated, naturally bright white, and subtly textured.
 
@@ -53,13 +47,13 @@ Sizes and format
 
 Available in:
 
-![](https://support.moo.com/hc/article_attachments/48452577378964)
+![]({{IMAGE_PENDING:48452577378964}})
 
 **Standard (2.0" x 3.5")**
 
-![](https://support.moo.com/hc/article_attachments/48452562103828)**MOO (2.16" x 3.3")**
+![]({{IMAGE_PENDING:48452562103828}})**{{BRAND_NAME}} (2.16" x 3.3")**
 
-![](https://support.moo.com/hc/article_attachments/48452562110228)**Square (2.56" x 2.56")**
+![]({{IMAGE_PENDING:48452562110228}})**Square (2.56" x 2.56")**
 
 Rounded or square corners available.
 
@@ -87,11 +81,10 @@ Customization
 - Colors appear softer than on coated papers
 - Works best with simple layouts and lighter ink coverage
 
-![Printfinity.svg](https://support.moo.com/hc/article_attachments/48452562111124)While the front of every card in your pack will have the same image, you can have up to 50 different back designs when utilizing MOO’s own [Printfinity](https://www.moo.com/about/printfinity) option! *Please note, Printfinity options may be limited on some MOO Designs.*  
+![{{FEATURE_MIXED_DESIGNS}}.svg]({{IMAGE_PENDING:48452562111124}})While the front of every card in your pack will have the same image, you can have up to 50 different back designs when utilizing {{BRAND_NAME}}’s own [{{FEATURE_MIXED_DESIGNS}}](https://www.{{MAIN_DOMAIN}}/about/{{FEATURE_MIXED_DESIGNS}}) option! *Please note, {{FEATURE_MIXED_DESIGNS}} options may be limited on some {{BRAND_NAME}} Designs.*  
 What to know before ordering
 -------------------------------
 
 - Easy to write on
 - Best suited for minimal or text-based designs
 - Not designed for glossy or high-shine finishes
-

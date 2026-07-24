@@ -1,0 +1,11 @@
+{
+    "timestamp": "2026-07-23T05:21:16+00:00",
+    "email_counts": {
+        "inquiries@{{MAIN_DOMAIN}} => {{EMAIL_INQUIRIES}}": 3,
+        "data.privacymanager@{{MAIN_DOMAIN}} => {{EMAIL_PRIVACY}}": 3
+    },
+    "path_counts": {
+        "moocrews.com => {{MAIN_DOMAIN}}": 1
+    },
+    "unmatched": []
+}

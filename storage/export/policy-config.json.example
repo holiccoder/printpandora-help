@@ -1,0 +1,27 @@
+{
+  "time_windows": {
+    "cancel_order_hours": 1,
+    "design_edit_hours": 3,
+    "saved_project_days": 90,
+    "refund_days": "3–5",
+    "next_day_cutoff": "2pm EST",
+    "support_hours": "Mon – Fri, 9:00 AM – 6:00 PM (CST)",
+    "delivery_dispute_days": 5,
+    "brochure_turnaround_days": 5
+  },
+  "carriers": ["USPS", "UPS", "FedEx"],
+  "shipping_origin": "United States",
+  "delivery_region": "US domestic",
+  "contacts": {
+    "chat": "{{HELP_DOMAIN}}/chat",
+    "email": "{{EMAIL_SUPPORT}}",
+    "phone": "+1-555-123-4567"
+  },
+  "support_response_promise": "We'll reply within one business day.",
+  "replacements": [
+    {"find": "Mon – Fri, 4:00 AM – 7:00 PM (EDT)", "replace": "{{SUPPORT_HOURS}}"},
+    {"find": "We'll reply by the end of the next working day", "replace": "{{SUPPORT_RESPONSE_PROMISE}}"},
+    {"find": "USPS / UPS / DHL", "replace": "{{CARRIERS}}"},
+    {"find": "3–5 working days", "replace": "{{REFUND_DAYS}}"}
+  ]
+}

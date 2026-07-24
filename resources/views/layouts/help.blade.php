@@ -32,7 +32,7 @@
 
     <footer class="footer">
         <span class="brand-mark">pandoara</span>
-        <span>Pandoara Inc. — Content mirrored from support.moo.com for demo purposes.</span>
+        <span>Pandoara Inc. — Help center.</span>
     </footer>
 </body>
 </html>

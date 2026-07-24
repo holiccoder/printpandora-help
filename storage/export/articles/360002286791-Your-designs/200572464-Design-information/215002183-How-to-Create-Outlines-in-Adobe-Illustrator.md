@@ -1,17 +1,11 @@
 ---
-external_id: 215002183
 title: 'How to Create Outlines in Adobe Illustrator'
 slug: 215002183-How-to-Create-Outlines-in-Adobe-Illustrator
-section_external_id: 200572464
-category: 'Your designs'
-section: 'Design information'
+external_id: 215002183
 locale: en-us
 position: 10
-promoted: false
-vote_sum: -6
-source_url: 'https://support.moo.com/hc/en-us/articles/215002183-How-to-Create-Outlines-in-Adobe-Illustrator'
-remote_created_at: '2016-10-07T13:56:49+00:00'
-remote_updated_at: '2026-03-24T12:55:38+00:00'
+category: 'Your designs'
+section: 'Design information'
 ---
 
 ### What does “create outlines” mean?
@@ -32,5 +26,4 @@ Once converted, the text is no longer editable as live text—you can’t change
 
 Your text is now converted into **vector outlines**.
 
-For the best results, you should then save your PDF, using the preset [**PDF/X-1a:2001**](https://support.moo.com/hc/articles/202838774)**.**
-
+For the best results, you should then save your PDF, using the preset [**PDF/X-1a:2001**](https://{{HELP_DOMAIN}}/hc/articles/202838774)**.**

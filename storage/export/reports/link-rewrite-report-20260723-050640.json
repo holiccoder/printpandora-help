@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-07-23T05:06:40+00:00",
+    "email_counts": [],
+    "path_counts": {
+        "{{MAIN_DOMAIN}}/us/help/faq/cost-calculator.html => {{QUOTE_URL}}": 16,
+        "{{MAIN_DOMAIN}}/design-templates/ => {{TEMPLATE_DOWNLOAD_URL}}/": 2,
+        "{{MAIN_DOMAIN}}/dam/jcr: => {{TEMPLATE_DOWNLOAD_URL}}/": 5,
+        "eu-assets.contentstack.com => {{TEMPLATE_ASSET_DOMAIN}}": 6,
+        "{{MAIN_DOMAIN}}/contact => {{CONTACT_URL}}": 17
+    },
+    "unmatched": {
+        "24519031120916-Downloadable-Sizing-Guides\\200570950-Printed-Product-Sizing-Templates\\31703975674260-Brochures-Sizing-Templates.md": [
+            "contentstack.com"
+        ]
+    }
+}

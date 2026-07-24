@@ -1,0 +1,63 @@
+{
+  "email_replacements": {
+    "inquiries@moo.com": "{{EMAIL_INQUIRIES}}",
+    "inquiries@{{MAIN_DOMAIN}}": "{{EMAIL_INQUIRIES}}",
+    "wecanhelp@moo.com": "{{EMAIL_SUPPORT}}",
+    "wecanhelp@{{MAIN_DOMAIN}}": "{{EMAIL_SUPPORT}}",
+    "data.privacymanager@moo.com": "{{EMAIL_PRIVACY}}",
+    "data.privacymanager@{{MAIN_DOMAIN}}": "{{EMAIL_PRIVACY}}",
+    "pr@moo.com": "{{EMAIL_PR}}",
+    "pr@{{MAIN_DOMAIN}}": "{{EMAIL_PR}}",
+    "salestax-us@moo.com": "{{EMAIL_TAX}}",
+    "salestax-us@{{MAIN_DOMAIN}}": "{{EMAIL_TAX}}",
+    "support@moo.com": "{{EMAIL_SUPPORT}}",
+    "support@{{MAIN_DOMAIN}}": "{{EMAIL_SUPPORT}}"
+  },
+  "path_patterns": [
+    {
+      "pattern": "{{MAIN_DOMAIN}}/contact",
+      "replace": "{{CONTACT_URL}}"
+    },
+    {
+      "pattern": "{{MAIN_DOMAIN}}/design-templates/",
+      "replace": "{{TEMPLATE_DOWNLOAD_URL}}/"
+    },
+    {
+      "pattern": "{{MAIN_DOMAIN}}/dam/jcr:",
+      "replace": "{{TEMPLATE_DOWNLOAD_URL}}/"
+    },
+    {
+      "pattern": "{{MAIN_DOMAIN}}/us/help/faq/cost-calculator.html",
+      "replace": "{{QUOTE_URL}}"
+    }
+  ],
+  "raw_domain_replacements": [
+    {
+      "find": "support.moo.com",
+      "replace": "{{HELP_DOMAIN}}"
+    },
+    {
+      "find": "moo.com",
+      "replace": "{{MAIN_DOMAIN}}"
+    },
+    {
+      "find": "moocrews.com",
+      "replace": "{{MAIN_DOMAIN}}"
+    },
+    {
+      "find": "eu-assets.contentstack.com",
+      "replace": "{{TEMPLATE_ASSET_DOMAIN}}"
+    },
+    {
+      "find": "eu-images.contentstack.com",
+      "replace": "{{TEMPLATE_ASSET_DOMAIN}}"
+    }
+  ],
+  "report_unmatched": {
+    "patterns": [
+      "moo\\.com",
+      "@moo\\.com",
+      "contentstack\\.com"
+    ]
+  }
+}

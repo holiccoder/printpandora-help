@@ -1,17 +1,11 @@
 ---
-external_id: 214801346
 title: 'What CMYK Means and Why It Matters for Printing'
 slug: 214801346-What-CMYK-Means-and-Why-It-Matters-for-Printing
-section_external_id: 200572464
-category: 'Your designs'
-section: 'Design information'
+external_id: 214801346
 locale: en-us
 position: 7
-promoted: false
-vote_sum: 15
-source_url: 'https://support.moo.com/hc/en-us/articles/214801346-What-CMYK-Means-and-Why-It-Matters-for-Printing'
-remote_created_at: '2016-10-28T21:35:03+00:00'
-remote_updated_at: '2026-06-23T08:46:42+00:00'
+category: 'Your designs'
+section: 'Design information'
 ---
 
 The article explains the difference between RGB and CMYK color systems. RGB (Red, Green, Blue) is used for screens, producing colors with light, while CMYK (Cyan, Magenta, Yellow, Black) is used for printing by layering inks. Colors may shift when converting from RGB to CMYK, so designs should be set to CMYK for accurate print results. Understanding these differences ensures printed colors match the intended design.
@@ -32,7 +26,7 @@ CMYK stands for:
 
 Printers layer these four inks in different amounts to create a wide range of colors on paper. By overlapping them, printers can form everything from deep blues to skin tones to bright greens.
 
-![CMYK.gif](https://support.moo.com/hc/article_attachments/41278469583124)
+![CMYK.gif]({{IMAGE_PENDING:41278469583124}})
 
 ### How Is It Different from RGB?
 
@@ -41,13 +35,13 @@ Printers layer these four inks in different amounts to create a wide range of co
 
 That’s why something glowing on a screen can look brighter than the same design on paper.
 
-![Screenshot 2025-09-02 at 13.44.04.gif](https://support.moo.com/hc/article_attachments/41278431029524)
+![Screenshot 2025-09-02 at 13.44.04.gif]({{IMAGE_PENDING:41278431029524}})
 
 ### Why Does This Matter?
 
 If you design in RGB and then print, the colors may shift. For example, bright neon blues or greens that look great on screen might look duller when printed. That’s because CMYK can’t reproduce every color RGB can.
 
-![Screenshot 2025-09-02 at 13.50.39.gif](https://support.moo.com/hc/article_attachments/41278431034388)
+![Screenshot 2025-09-02 at 13.50.39.gif]({{IMAGE_PENDING:41278431034388}})
 
 ### How to Get It Right
 
@@ -58,4 +52,3 @@ If you design in RGB and then print, the colors may shift. For example, bright n
 ### Final Thoughts
 
 RGB is perfect for screens, but CMYK is the standard for printing. Knowing the difference helps you get results that match your vision—whether it’s a business card, poster, or brochure.
-

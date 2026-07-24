@@ -1,0 +1,63 @@
+{
+  "brand_name": "{{BRAND_NAME}}",
+  "business_cards": {
+    "papers": [
+      {
+        "key": "standard",
+        "name": "Standard",
+        "weight_grams": 350,
+        "weight_pt": 16,
+        "finish": ["matte", "gloss"],
+        "sizes": ["2.0x3.5", "2.56x2.56"],
+        "rounded": true,
+        "special_finishes": []
+      },
+      {
+        "key": "premium",
+        "name": "Premium",
+        "weight_grams": 400,
+        "weight_pt": 19,
+        "finish": ["soft_touch"],
+        "sizes": ["2.0x3.5"],
+        "rounded": true,
+        "special_finishes": ["gold_foil", "silver_foil", "spot_gloss", "raised_spot_gloss"]
+      }
+    ],
+    "special_finishes": [
+      {
+        "key": "gold_foil",
+        "name": "Gold Foil",
+        "coverage_max": "50%",
+        "file_requirements": "Vector PDF, separate foil layer in 100%K"
+      }
+    ],
+    "max_designs_per_pack": 50
+  },
+  "postcards": {
+    "sizes": [
+      {"key": "small", "name": "Small", "dimensions": "4.13x5.83"},
+      {"key": "standard", "name": "Standard", "dimensions": "4x6"}
+    ],
+    "papers": ["standard", "premium"]
+  },
+  "brochures": {
+    "types": [
+      {"key": "bi_fold", "name": "Bi-fold", "dimensions": "5.5x8.5"},
+      {"key": "tri_fold", "name": "Tri-fold", "dimensions": "3.67x8.5"}
+    ],
+    "papers": [
+      {"name": "Premium Matte", "weight": "80lb (225gsm)"},
+      {"name": "Gloss", "weight": "100lb (250gsm)"}
+    ],
+    "min_order": 25,
+    "turnaround_days": 5
+  },
+  "preflight": {
+    "bleed_mm": 2,
+    "safe_area_mm": 2,
+    "resolution_dpi": 300,
+    "color_mode": "CMYK",
+    "pdf_preset": "PDF/X-1a:2001",
+    "max_file_size_mb": 50
+  }
+}

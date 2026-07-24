@@ -1,20 +1,14 @@
 ---
-external_id: 360035244612
 title: 'Ordering from the correct site'
 slug: 360035244612-Ordering-from-the-correct-site
-section_external_id: 200586084
-category: 'Fix a problem'
-section: 'Error messages'
+external_id: 360035244612
 locale: en-us
 position: 1
-promoted: false
-vote_sum: -6
-source_url: 'https://support.moo.com/hc/en-us/articles/360035244612-Ordering-from-the-correct-site'
-remote_created_at: '2019-10-28T13:41:34+00:00'
-remote_updated_at: '2025-09-11T13:00:36+00:00'
+category: 'Fix a problem'
+section: 'Error messages'
 ---
 
-To get the best experience and fastest delivery, it's important to use the version of MOO.com that's tailored to your location.
+To get the best experience and fastest delivery, it's important to use the version of {{MAIN_DOMAIN}} that's tailored to your location.
 
 Check Your Site Version
 -----------------------
@@ -35,7 +29,7 @@ We have production centers in both London, UK, and Rhode Island, USA. Choosing t
 - Faster shipping times and lower shipping costs.
 - Prices displayed in your local currency.
 
-![Important Icon](https://support.moo.com/hc/article_attachments/30843395865364) **Note:** If you're redirected to the incorrect site version, you can manually change it using the steps above.
+![Important Icon]({{IMAGE_PENDING:30843395865364}}) **Note:** If you're redirected to the incorrect site version, you can manually change it using the steps above.
 
  
 -
@@ -43,5 +37,4 @@ We have production centers in both London, UK, and Rhode Island, USA. Choosing t
 Need Assistance?
 ----------------
 
-If you have any questions or need help, please [contact our support team](https://support.moo.com/hc/articles/204288414).
-
+If you have any questions or need help, please [contact our support team](https://{{HELP_DOMAIN}}/hc/articles/204288414).

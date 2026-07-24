@@ -1,17 +1,11 @@
 ---
-external_id: 115001962143
 title: 'How do I work with transparency in Illustrator for printing & saving?'
 slug: 115001962143-How-do-I-work-with-transparency-in-Illustrator-for-printing-saving
-section_external_id: 200572464
-category: 'Your designs'
-section: 'Design information'
+external_id: 115001962143
 locale: en-us
 position: 11
-promoted: false
-vote_sum: 8
-source_url: 'https://support.moo.com/hc/en-us/articles/115001962143-How-do-I-work-with-transparency-in-Illustrator-for-printing-saving'
-remote_created_at: '2017-04-18T21:23:40+00:00'
-remote_updated_at: '2025-10-10T19:35:05+00:00'
+category: 'Your designs'
+section: 'Design information'
 ---
 
 "Transparency" in artwork refers to elements that are not fully opaque, such as drop shadows or blending modes, enriching designs but requiring careful handling to avoid printing issues. "Flattening" converts transparent artwork for formats or printers that don't support transparency, balancing vector and raster elements. Illustrator offers flattening presets to control this process and a Flattener Preview tool to see affected areas. Specific objects can also be flattened using Object Flatten Transparency with preferred settings and saved as PDF/X-1a:2001.
@@ -51,8 +45,7 @@ If you only want to flatten one object (not the whole document), here’s how:
 
 1. **Select** &gt; **All**
 2. Use **Object &gt; Flatten Transparency…** in the menu.
-3. Change default settings to our MOO preferred settings. They should look like this:![Screen_Shot_2017-04-18_at_5.18.11_PM.png](https://support.moo.com/hc/article_attachments/29834273504148)
+3. Change default settings to our {{BRAND_NAME}} preferred settings. They should look like this:![Screen_Shot_2017-04-18_at_5.18.11_PM.png]({{IMAGE_PENDING:29834273504148}})
 4. Click **OK** to apply to just that object.
 5. **Save as**... &gt; **PDF**
-6. Choose the **PDF/X-1a:2001** from the first dropdown.![Screen_Shot_2017-04-18_at_5.21.40_PM.png](https://support.moo.com/hc/article_attachments/29834273504404)
-
+6. Choose the **PDF/X-1a:2001** from the first dropdown.![Screen_Shot_2017-04-18_at_5.21.40_PM.png]({{IMAGE_PENDING:29834273504404}})

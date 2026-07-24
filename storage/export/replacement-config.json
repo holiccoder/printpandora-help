@@ -1,0 +1,25 @@
+{
+  "case_sensitive": false,
+  "replacements": [
+    {"find": "MOO Business Services", "replace": "{{BRAND_BUSINESS_SERVICES}}", "whole_word": true},
+    {"find": "MOO for Business", "replace": "{{BRAND_BUSINESS_SERVICES}}", "whole_word": true},
+    {"find": "MOOsLETTER", "replace": "{{BRAND_NEWSLETTER}}", "whole_word": true},
+    {"find": "MOOsLetter", "replace": "{{BRAND_NEWSLETTER}}", "whole_word": true},
+    {"find": "Little MOO", "replace": "{{BRAND_MASCOT}}", "whole_word": true},
+    {"find": "The MOO Promise", "replace": "{{BRAND_PROMISE}}", "whole_word": true},
+    {"find": "Printfinity", "replace": "{{FEATURE_MIXED_DESIGNS}}", "whole_word": true},
+    {"find": "MOO Size", "replace": "{{BRAND_SIZE_NAME}}", "whole_word": true},
+    {"find": "MiniCards", "replace": "{{BRAND_MINICARD_NAME}}", "whole_word": true},
+    {"find": "MiniCard", "replace": "{{BRAND_MINICARD_NAME}}", "whole_word": true},
+    {"find": "Mohawk", "replace": "{{PAPER_BRAND}}", "whole_word": true},
+    {"find": "Coated GRACoL 2006", "replace": "{{ICC_PROFILE}}", "whole_word": false},
+    {"find": "Coated GRACOL 2006", "replace": "{{ICC_PROFILE}}", "whole_word": false},
+    {"find": "Coated GRACol-2006", "replace": "{{ICC_PROFILE}}", "whole_word": false},
+    {"find": "GRACoL 2006", "replace": "{{ICC_PROFILE}}", "whole_word": false},
+    {"find": "GRACOL 2006", "replace": "{{ICC_PROFILE}}", "whole_word": false},
+    {"find": "GRACol-2006", "replace": "{{ICC_PROFILE}}", "whole_word": false},
+    {"find": "support.moo.com", "replace": "{{HELP_DOMAIN}}", "whole_word": false},
+    {"find": "moo.com", "replace": "{{MAIN_DOMAIN}}", "whole_word": false},
+    {"find": "MOO", "replace": "{{BRAND_NAME}}", "whole_word": true}
+  ]
+}

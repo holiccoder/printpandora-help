@@ -1,0 +1,2435 @@
+{
+    "timestamp": "2026-07-23T05:15:03+00:00",
+    "files_scanned": 109,
+    "findings": [
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "type": "MiniCard",
+            "match": "MiniCard"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "type": "MiniCard",
+            "match": "MiniCard"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "type": "MiniCard",
+            "match": "minicard"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "type": "MiniCard",
+            "match": "MiniCard"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "type": "MiniCard",
+            "match": "MiniCard"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "type": "Mohawk",
+            "match": "Mohawk"
+        }
+    ],
+    "placeholders": [
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195412-Business-Card-Holders.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195432-MOO-Softcover-Journals.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195432-MOO-Softcover-Journals.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195432-MOO-Softcover-Journals.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195432-MOO-Softcover-Journals.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036195432-MOO-Softcover-Journals.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560011-Hardcover-Notebooks.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560011-Hardcover-Notebooks.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560011-Hardcover-Notebooks.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\360036560031-Envelopes.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_MINICARD_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_MINICARD_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{BRAND_MINICARD_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\6321156549780-Display-Boxes.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\9275406972820-Perpetual-Planners.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\9275406972820-Perpetual-Planners.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\9275406972820-Perpetual-Planners.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007317932-Accessories\\9275406972820-Perpetual-Planners.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007413731-Printed-Products\\46464830445332-What-Are-Special-Finishes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007413731-Printed-Products\\46464830445332-What-Are-Special-Finishes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007413731-Printed-Products\\46464830445332-What-Are-Special-Finishes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007413731-Printed-Products\\46464830445332-What-Are-Special-Finishes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\360007413731-Printed-Products\\46464830445332-What-Are-Special-Finishes.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\10390152585748-Cotton-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\202670074-Luxe-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\360036195592-Special-Finish-Business-Cards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48419147478548-Original-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48420290917396-Super-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48422397144852-Gold-Foil-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48450368127636-Silver-Foil-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451616678036-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417382964884-Business-Cards\\48451907055508-Raised-Spot-Gloss-Business-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49515791494036-Original-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49516764978324-Super-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49522045765908-Luxe-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417424406932-Postcards\\49677892412308-Gold-and-Silver-Foil-Postcards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\31702809560980-Brochures.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\31702809560980-Brochures.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\31702809560980-Brochures.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\31702809560980-Brochures.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\31702809560980-Brochures.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417525342228-Marketing-Materials\\360036195472-Flyers.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036195552-Notecards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559951-Greeting-Cards.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{FEATURE_MIXED_DESIGNS}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "200202604-About-MOO-products\\48417527922068-Stationery\\360036559971-Letterhead.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "24519031120916-Downloadable-Sizing-Guides\\200570950-Printed-Product-Sizing-Templates\\202834204-How-to-Use-Downloadable-Sizing-Templates.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "24519031120916-Downloadable-Sizing-Guides\\200570950-Printed-Product-Sizing-Templates\\202834204-How-to-Use-Downloadable-Sizing-Templates.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "24519031120916-Downloadable-Sizing-Guides\\200570950-Printed-Product-Sizing-Templates\\202834204-How-to-Use-Downloadable-Sizing-Templates.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "24519031120916-Downloadable-Sizing-Guides\\200570950-Printed-Product-Sizing-Templates\\202834204-How-to-Use-Downloadable-Sizing-Templates.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "24519031120916-Downloadable-Sizing-Guides\\200570950-Printed-Product-Sizing-Templates\\202834204-How-to-Use-Downloadable-Sizing-Templates.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\202834404-How-to-use-our-cost-calculator.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\202834404-How-to-use-our-cost-calculator.md",
+            "placeholder": "{{QUOTE_URL}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\202834404-How-to-use-our-cost-calculator.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\202834454-Next-day-delivery-options.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\202834454-Next-day-delivery-options.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\203058460-Shipping-notifications.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\203058460-Shipping-notifications.md",
+            "placeholder": "{{BRAND_MASCOT}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\203058460-Shipping-notifications.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\203058460-Shipping-notifications.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\26188309548820-Our-carriers.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\26188309548820-Our-carriers.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244812-Print-and-shipping-turnaround.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244812-Print-and-shipping-turnaround.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244812-Print-and-shipping-turnaround.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244812-Print-and-shipping-turnaround.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244872-Promotions-and-sales.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244872-Promotions-and-sales.md",
+            "placeholder": "{{BRAND_NEWSLETTER}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244872-Promotions-and-sales.md",
+            "placeholder": "{{BRAND_NEWSLETTER}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244872-Promotions-and-sales.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244872-Promotions-and-sales.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244872-Promotions-and-sales.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200571244-Delivery-cost-turnaround\\360035244872-Promotions-and-sales.md",
+            "placeholder": "{{BRAND_NEWSLETTER}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579380-Payment-taxes\\203058640-Payment-methods.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579380-Payment-taxes\\203058640-Payment-methods.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834774-Satisfaction-guarantee.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834774-Satisfaction-guarantee.md",
+            "placeholder": "{{BRAND_PROMISE}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834774-Satisfaction-guarantee.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834774-Satisfaction-guarantee.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834774-Satisfaction-guarantee.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834774-Satisfaction-guarantee.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\202834814-Free-product-samples-printed-proofs.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244592-MOO-products.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244592-MOO-products.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244592-MOO-products.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244592-MOO-products.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244592-MOO-products.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244592-MOO-products.md",
+            "placeholder": "{{BRAND_NEWSLETTER}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244592-MOO-products.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244632-Ordering-custom-samples.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244632-Ordering-custom-samples.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035244632-Ordering-custom-samples.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035605511-PDF-proof.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035605511-PDF-proof.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002276572-Get-started-with-MOO\\200579410-Product-samples-proofs\\360035605511-PDF-proof.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200570960-How-to-use-your-own-photos\\202677034-Color-settings-for-photos.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200570960-How-to-use-your-own-photos\\202677034-Color-settings-for-photos.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200570960-How-to-use-your-own-photos\\7990289486996-Using-QR-codes-with-MOO.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200570960-How-to-use-your-own-photos\\7990289486996-Using-QR-codes-with-MOO.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200570960-How-to-use-your-own-photos\\7990289486996-Using-QR-codes-with-MOO.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200570960-How-to-use-your-own-photos\\7990289486996-Using-QR-codes-with-MOO.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200570960-How-to-use-your-own-photos\\7990289486996-Using-QR-codes-with-MOO.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\115001962143-How-do-I-work-with-transparency-in-Illustrator-for-printing-saving.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\202941190-Accepted-design-file-formats.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\202941190-Accepted-design-file-formats.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\202941330-Recommended-file-sizes-for-images-photos.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\202941330-Recommended-file-sizes-for-images-photos.md",
+            "placeholder": "{{BRAND_SIZE_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\202941330-Recommended-file-sizes-for-images-photos.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205138663-Digital-halftone-printing-process.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205290724-Does-MOO-offer-design-services.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205290724-Does-MOO-offer-design-services.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205290724-Does-MOO-offer-design-services.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205290724-Does-MOO-offer-design-services.md",
+            "placeholder": "{{BRAND_BUSINESS_SERVICES}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205290724-Does-MOO-offer-design-services.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205290724-Does-MOO-offer-design-services.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\205290724-Does-MOO-offer-design-services.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\215002183-How-to-Create-Outlines-in-Adobe-Illustrator.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\217377406-How-do-I-save-a-Photoshop-file-as-a-PDF.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\26188405328020-Material-not-safe-for-work-NSFW.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572464-Design-information\\360037639031-Artwork-templates.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\115002180286-Special-Finishes-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\202941410-Design-color-settings.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\202941410-Design-color-settings.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\202941650-Text-line-art-design-recommendations.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\202941650-Text-line-art-design-recommendations.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\202941650-Text-line-art-design-recommendations.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\206347686-Special-Finishes-design-requirements.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\209324946-Design-quick-tips.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286791-Your-designs\\200572484-How-to-use-your-own-designs\\6580743117588-Using-Special-Finishes-as-an-Enhancement.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\202834744-Payment-taken-but-no-order-placed-what-to-do.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\203058870-Why-is-my-promo-code-not-working.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\360035244732-Changing-an-order-receipt.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\360035244732-Changing-an-order-receipt.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\360035244792-Duplicate-charge-for-an-order.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\360035244792-Duplicate-charge-for-an-order.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\360035605471-Emojis-or-other-special-characters-causing-checkout-issues.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200585294-Payment-problems\\360035605491-Blank-payment-screen.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\202838754-How-to-convert-text-to-shapes-in-Adobe-Photoshop.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\202838774-How-to-preflight-a-PDF.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\203063790-How-to-convert-spot-or-Pantone-color-to-CMYK.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\203063790-How-to-convert-spot-or-Pantone-color-to-CMYK.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\203063790-How-to-convert-spot-or-Pantone-color-to-CMYK.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360035244612-Ordering-from-the-correct-site.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360035244612-Ordering-from-the-correct-site.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360035605271-Understanding-Design-Error-Messages.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360035605571-Removing-crop-marks.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360035605571-Removing-crop-marks.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360035605571-Removing-crop-marks.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360035605571-Removing-crop-marks.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360061621892-Document-is-more-than-one-page.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200586084-Error-messages\\360061623472-Pattern-or-shading-is-used.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200598374-Contact-our-helpdesk\\204288414-How-to-contact-our-Customer-Service-team.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200598374-Contact-our-helpdesk\\204288414-How-to-contact-our-Customer-Service-team.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200598374-Contact-our-helpdesk\\204288414-How-to-contact-our-Customer-Service-team.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200598374-Contact-our-helpdesk\\204288414-How-to-contact-our-Customer-Service-team.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200598374-Contact-our-helpdesk\\204288414-How-to-contact-our-Customer-Service-team.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200960870-Design-problems\\360035605171-Vector-vs-raster.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200960870-Design-problems\\360035605171-Vector-vs-raster.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200960870-Design-problems\\360035605171-Vector-vs-raster.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200960870-Design-problems\\360035605391-Dull-or-dark-print.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200960870-Design-problems\\360035605391-Dull-or-dark-print.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200960870-Design-problems\\360035605391-Dull-or-dark-print.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286811-Fix-a-problem\\200960870-Design-problems\\360035605551-Dotty-print.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202834934-How-to-create-a-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202834934-How-to-create-a-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202834934-How-to-create-a-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202834934-How-to-create-a-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202834934-How-to-create-a-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202834934-How-to-create-a-MOO-account.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202834934-How-to-create-a-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202941050-I-can-t-access-my-MOO-account-what-to-do.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202941050-I-can-t-access-my-MOO-account-what-to-do.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202941050-I-can-t-access-my-MOO-account-what-to-do.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\202941050-I-can-t-access-my-MOO-account-what-to-do.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059190-How-to-delete-your-MOO-account.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059420-How-to-store-saved-projects-in-your-account.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\203059420-How-to-store-saved-projects-in-your-account.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035244532-Business-account-support.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035244532-Business-account-support.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035244532-Business-account-support.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035244892-Changing-your-account-credentials.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035244892-Changing-your-account-credentials.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035605231-Removing-saved-addresses.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035605331-Managing-your-information.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035605531-Business-account-log-in.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035605531-Business-account-log-in.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035605531-Business-account-log-in.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200572374-Account-settings\\360035605531-Business-account-log-in.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\115001972466-How-to-reorder-or-edit-a-previous-order.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\115001972466-How-to-reorder-or-edit-a-previous-order.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\115001972466-How-to-reorder-or-edit-a-previous-order.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\202834914-How-to-change-a-delivery-address.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\202834914-How-to-change-a-delivery-address.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\202834914-How-to-change-a-delivery-address.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\203059110-How-to-cancel-an-order.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\203059110-How-to-cancel-an-order.md",
+            "placeholder": "{{HELP_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\205356950-How-to-change-your-order.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\205356950-How-to-change-your-order.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\360035244672-Where-to-find-your-order-history.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585334-Order-editing-reordering\\360035244672-Where-to-find-your-order-history.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585404-Where-s-my-order\\202835194-Order-status-and-delays.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\200585404-Where-s-my-order\\202835194-Order-status-and-delays.md",
+            "placeholder": "{{CONTACT_URL}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\203262660-Terms-and-conditions.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\203262660-Terms-and-conditions.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072423-Unsubscribing.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072423-Unsubscribing.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072423-Unsubscribing.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{BRAND_NAME}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        },
+        {
+            "file": "360002286851-Account-and-orders\\360000209526-Privacy-settings\\360001072603-Privacy-and-GDPR.md",
+            "placeholder": "{{MAIN_DOMAIN}}"
+        }
+    ]
+}

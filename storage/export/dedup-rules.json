@@ -1,0 +1,23 @@
+[
+  {
+    "keep": "360002286811-Fix-a-problem/200585294-Payment-problems/202834744-Payment-taken-but-no-order-placed-what-to-do.md",
+    "archive": [
+      "360002286811-Fix-a-problem/200585294-Payment-problems/360035605451-Payment-taken-but-no-order-placed.md"
+    ],
+    "reason": "Duplicate 'payment taken but no order placed' articles"
+  },
+  {
+    "keep": "360002286791-Your-designs/200572464-Design-information/215002183-How-to-Create-Outlines-in-Adobe-Illustrator.md",
+    "archive": [
+      "360002286811-Fix-a-problem/200586084-Error-messages/41108164320276-How-to-Create-Outlines-in-Adobe-Illustrator.md"
+    ],
+    "reason": "Duplicate Illustrator create-outlines tutorial"
+  },
+  {
+    "keep": "360002286811-Fix-a-problem/200586084-Error-messages/202838754-How-to-convert-text-to-shapes-in-Adobe-Photoshop.md",
+    "archive": [
+      "360002286791-Your-designs/200572464-Design-information/214500546-How-to-convert-text-to-shapes-in-Adobe-Photoshop.md"
+    ],
+    "reason": "Duplicate Photoshop text-to-shapes tutorial"
+  }
+]
