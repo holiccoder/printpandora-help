@@ -3,6 +3,7 @@
 namespace App\Console\Commands;
 
 use App\Models\Article;
+use App\Support\ArticleMarkdown;
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Str;
@@ -130,7 +131,7 @@ class ImportArticles extends Command
     protected function processFile(string $path): ?array
     {
         $content = file_get_contents($path);
-        $parsed = $this->parseFile($content);
+        $parsed = ArticleMarkdown::parse($content);
 
         $externalId = $parsed['front_matter']['external_id'] ?? null;
 
@@ -145,12 +146,7 @@ class ImportArticles extends Command
             return null;
         }
 
-        $markdown = $parsed['body'];
-        $html = Str::markdown($markdown, [
-            'html_input' => 'strip',
-            'allow_unsafe_links' => false,
-        ]);
-        $bodyText = trim(preg_replace('/\s+/', ' ', strip_tags((string) $html)));
+        [$html, $bodyText] = ArticleMarkdown::render($parsed['body']);
 
         $changes = [];
 
@@ -166,29 +162,6 @@ class ImportArticles extends Command
         $this->applyString($article, 'body_text', $bodyText, $changes);
 
         return [$article, $changes];
-    }
-
-    protected function parseFile(string $content): array
-    {
-        $content = preg_replace('/\r\n?/', "\n", $content);
-
-        if (!str_starts_with($content, "---\n")) {
-            return ['front_matter' => [], 'body' => $content];
-        }
-
-        $end = strpos($content, "\n---", 4);
-        if ($end === false) {
-            return ['front_matter' => [], 'body' => $content];
-        }
-
-        $yaml = substr($content, 4, $end - 4);
-        $body = substr($content, $end + 5);
-        $body = ltrim($body, "\n");
-
-        return [
-            'front_matter' => Yaml::parse($yaml) ?: [],
-            'body' => $body,
-        ];
     }
 
     protected function applyString(Article $article, string $field, mixed $value, array &$changes): void
