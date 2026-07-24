@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
     <title>@yield('title', 'Pandoara | Support')</title>
     <link rel="stylesheet" href="{{ asset('css/help.css') }}?v=1">
 </head>
