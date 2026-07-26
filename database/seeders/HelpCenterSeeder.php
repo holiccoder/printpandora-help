@@ -6,6 +6,7 @@ use App\Models\Article;
 use App\Models\Category;
 use App\Models\Section;
 use App\Support\ArticleMarkdown;
+use App\Support\PlaceholderResolver;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
@@ -58,10 +59,14 @@ class HelpCenterSeeder extends Seeder
                         $parsed = ArticleMarkdown::parse($file->getContents());
                         $fm = $parsed['front_matter'];
 
-                        if ($i === 0) {
-                            $categoryName = $fm['category'] ?? basename($catDir);
-                            $sectionName = $fm['section'] ?? basename($secDir);
+                        // Resolve placeholders for all frontmatter fields and body
+                        $categoryName = PlaceholderResolver::resolve($fm['category'] ?? basename($catDir));
+                        $sectionName = PlaceholderResolver::resolve($fm['section'] ?? basename($secDir));
+                        $articleTitle = PlaceholderResolver::resolve($fm['title'] ?? '');
+                        $articleSlug = PlaceholderResolver::resolve($fm['slug'] ?? Str::slug($articleTitle));
+                        $articleBody = PlaceholderResolver::resolve($parsed['body'] ?? '');
 
+                        if ($i === 0) {
                             $category = Category::updateOrCreate(
                                 ['external_id' => $catExtId],
                                 [
@@ -93,13 +98,13 @@ class HelpCenterSeeder extends Seeder
                             continue;
                         }
 
-                        [$html, $text] = ArticleMarkdown::render($parsed['body']);
+                        [$html, $text] = ArticleMarkdown::render($articleBody);
                         Article::updateOrCreate(
                             ['external_id' => $artExtId],
                             [
                                 'section_id' => $section->id,
-                                'title' => $fm['title'] ?? '',
-                                'slug' => $fm['slug'] ?? Str::slug($fm['title'] ?? ''),
+                                'title' => $articleTitle,
+                                'slug' => $articleSlug,
                                 'body' => $html,
                                 'body_text' => $text,
                                 'locale' => $fm['locale'] ?? 'en-us',
