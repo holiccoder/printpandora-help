@@ -9,6 +9,23 @@ class Category extends Model
 {
     protected $guarded = [];
 
+    public function getAttribute($key)
+    {
+        $value = parent::getAttribute($key);
+
+        if (is_string($value) && $value !== '' && ! in_array($key, ['slug', 'external_id', 'locale'])) {
+            $value = \App\Support\PlaceholderResolver::resolve($value);
+        }
+
+        if (app()->getLocale() === 'zh-cn' && in_array($key, ['name', 'description'])) {
+            if (is_string($value) && $value !== '') {
+                return \App\Support\Translator::translate($value);
+            }
+        }
+
+        return $value;
+    }
+
     public function sections(): HasMany
     {
         return $this->hasMany(Section::class)->orderBy('position');
